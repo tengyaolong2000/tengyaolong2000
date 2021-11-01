@@ -13,6 +13,6 @@ I'm a first year Data Science and Artificial Intelligence student at Nanyang Tec
 - Julia
 - HTML/CSS
 
-- 👯 I’m looking to collaborate on projects with computer vision/ NLP
+- 👯 I’m looking to collaborate on projects with computer vision/ Natural Language Processing
 - 📫 Reach me on tengyaolong2000@gmail.com
 
