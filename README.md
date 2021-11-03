@@ -5,10 +5,12 @@ I'm a first year Data Science and Artificial Intelligence student at Nanyang Tec
 - 🌱 I’m currently learning about AI
 
 - I have experience in these languages (in descending order of experience and ability):
--===Officially taught===
+
+===Officially taught===
 - Python
 - C
--===Self-taught during my free time===
+
+===Self-taught during my free time===
 - R
 - Matlab
 - HTML/CSS (not really a programming language but...)
