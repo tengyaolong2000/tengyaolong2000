@@ -10,8 +10,8 @@ I'm a first year Data Science and Artificial Intelligence student at Nanyang Tec
 - C
 - R
 - Matlab
-- Julia
 - HTML/CSS (not really a programming language but...)
+- -Julia
 
 - 👯 I’m looking to collaborate on projects with computer vision/ Natural Language Processing
 - 📫 Reach me on tengyaolong2000@gmail.com
