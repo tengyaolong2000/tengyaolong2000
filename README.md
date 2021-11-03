@@ -10,7 +10,7 @@ I'm a first year Data Science and Artificial Intelligence student at Nanyang Tec
 - Python
 - C
 
-===Self-taught during my free time===
+===Self-taught during my free time in year 1===
 - R
 - Matlab
 - HTML/CSS (not really a programming language but...)
