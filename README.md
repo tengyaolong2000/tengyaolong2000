@@ -9,7 +9,9 @@ I'm a first year Data Science and Artificial Intelligence student at Nanyang Tec
 ===Officially taught===
 - Python
 - C
+- Java
 - R
+
 
 ===Self-taught during my free time in year 1===
 
