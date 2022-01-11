@@ -20,6 +20,7 @@ I'm a first year Data Science and Artificial Intelligence student at Nanyang Tec
 - Julia
 
 ===Libraries I am familiar with===
+
 -Tensorflow Keras for DeepLearning/Neural Networks
 -scikit for machine learning
 
