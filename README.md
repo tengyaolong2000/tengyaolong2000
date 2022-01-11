@@ -22,6 +22,7 @@ I'm a first year Data Science and Artificial Intelligence student at Nanyang Tec
 ===Libraries I am familiar with===
 
 -Tensorflow Keras for DeepLearning/Neural Networks
+
 -scikit for machine learning
 
 - 👯 I’m looking to collaborate on projects with Computer Vision/ Natural Language Processing
