@@ -19,6 +19,10 @@ I'm a first year Data Science and Artificial Intelligence student at Nanyang Tec
 - HTML/CSS (not really a programming language but...)
 - Julia
 
+===Libraries I am familiar with===
+-Tensorflow Keras for DeepLearning/Neural Networks
+-scikit for machine learning
+
 - 👯 I’m looking to collaborate on projects with Computer Vision/ Natural Language Processing
 - 📫 Reach me on tengyaolong2000@gmail.com
 - For gaming: https://steamcommunity.com/id/tengdrago1 :D
