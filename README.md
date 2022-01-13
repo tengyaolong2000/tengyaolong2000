@@ -25,6 +25,14 @@ I'm a first year Data Science and Artificial Intelligence student at Nanyang Tec
 
 -scikit for machine learning
 
+===Current Ongoing Collaborative Projects===
+
+-Image Recognition/ Segmentation Deep Learning project
+
+-Blackjack AI
+
+
+
 - 👯 I’m looking to collaborate on projects with Computer Vision/ Natural Language Processing
 - 📫 Reach me on tengyaolong2000@gmail.com
 - For gaming: https://steamcommunity.com/id/tengdrago1 :D
