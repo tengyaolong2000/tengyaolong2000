@@ -2,7 +2,7 @@
 
 I'm a 3rd year Data Science and Artificial Intelligence student at Nanyang Technological University
 
-- 🌱 I’m currently doing research in the domain of Deep Reinforcement Learning
+- 🌱 I’m currently doing research on AI in quanittative finance.
 
 
 ====================================================
