@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-I'm a 3rd year Data Science and Artificial Intelligence student at Nanyang Technological University
+I'm a Final year Data Science and Artificial Intelligence student at Nanyang Technological University
 
-- 🌱 I’m currently doing research on AI in quantitative finance.
+- 🌱 I have done doing research on AI in quantitative finance.
+- I am currently doing research on foundational models and AI agents
 
 
 ====================================================
